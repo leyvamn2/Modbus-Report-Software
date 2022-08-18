@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtonModbus", "ProtonModbus\ProtonModbus.csproj", "{9EFC3365-7534-4C0A-8AB4-C5ACF898544C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EFC3365-7534-4C0A-8AB4-C5ACF898544C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EFC3365-7534-4C0A-8AB4-C5ACF898544C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EFC3365-7534-4C0A-8AB4-C5ACF898544C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EFC3365-7534-4C0A-8AB4-C5ACF898544C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F59CF61-33C1-4376-B76A-A765F251390E}
+	EndGlobalSection
+EndGlobal
